@@ -1,6 +1,11 @@
 {
   "dependencies": {
     "chalk": "^4.1.2",
-    "js-function-string": "^1.0.0"
+    "js-function-string": "^1.0.0",
+    "log-symbols": "^5.0.0",
+    "ora": "^6.0.0",
+    "osascript": "^1.2.0",
+    "require-dir": "^1.2.0",
+    "vorpal": "^1.12.0"
   }
 }
